@@ -1,4 +1,4 @@
-// import './Block01.scss';
+import './Block01.scss';
 
 export default function Block01() {
 	return (
